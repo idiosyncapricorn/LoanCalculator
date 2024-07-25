@@ -1,4 +1,3 @@
-#Gavin Morrison Mod12 Assignment
 def calculate_loan():
     amount = float(input("Enter the loan amount: $"))
     interest_rate = float(input("Enter the interest rate (in percentage): "))
